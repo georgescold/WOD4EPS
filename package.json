@@ -1,0 +1,15 @@
+{
+  "name": "wod4eps",
+  "version": "1.0.0",
+  "description": "Application pédagogique de cross training pour l'EPS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["eps", "cross-training", "education"],
+  "author": "georgescold",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
