@@ -1,0 +1,24 @@
+# Fichiers et dossiers à ignorer par Git
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+
+# Dossiers IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Node modules (si jamais utilisé)
+node_modules/
+
+# Fichiers de sauvegarde
+*~
+*.bak
+*.swp
